@@ -159,13 +159,3 @@ images/ → Dashboard screenshots
 * Product & business thinking
 * Data-driven decision making
 * Dashboarding and storytelling
-
----
-
-## 🔗 Author
-
-**Viknesh Subramanian**
-Data Analyst | SQL | Power BI | Product Analytics
-
-* GitHub: https://github.com/Viknesh-Data
-* LinkedIn: https://www.linkedin.com/in/viknesh-subramanian-8-
